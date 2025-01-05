@@ -1,6 +1,6 @@
 <?php
 
-namespace Behamin\BResources\Tests;
+namespace Ehsandevs\BResources\Tests;
 
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\File;

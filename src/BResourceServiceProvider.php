@@ -1,9 +1,9 @@
 <?php
 
-namespace Behamin\BResources;
+namespace Ehsandevs\BResources;
 
-use Behamin\BResources\Console\MakeBRequestCommand;
-use Behamin\BResources\Console\MakeBResourceCommand;
+use Ehsandevs\BResources\Console\MakeBRequestCommand;
+use Ehsandevs\BResources\Console\MakeBResourceCommand;
 use Illuminate\Support\ServiceProvider;
 
 class BResourceServiceProvider extends ServiceProvider

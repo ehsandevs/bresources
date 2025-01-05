@@ -1,8 +1,8 @@
 <?php
 
-namespace Behamin\BResources\Requests;
+namespace Ehsandevs\BResources\Requests;
 
-use Behamin\BResources\Resources\BasicResource;
+use Ehsandevs\BResources\Resources\BasicResource;
 use Illuminate\Contracts\Validation\Validator;
 use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Http\Response;

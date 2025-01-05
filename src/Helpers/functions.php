@@ -1,6 +1,6 @@
 <?php
 
-use Behamin\BResources\Helpers\Api\ApiResponse;
+use Ehsandevs\BResources\Helpers\Api\ApiResponse;
 
 if (!function_exists('apiResponse')) {
     function apiResponse(): ApiResponse

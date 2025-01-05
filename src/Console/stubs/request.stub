@@ -2,7 +2,7 @@
 
 namespace {{ namespace }};
 
-use Behamin\BResources\Requests\BasicRequest;
+use Ehsandevs\BResources\Requests\BasicRequest;
 
 class {{ class }} extends BasicRequest
 {

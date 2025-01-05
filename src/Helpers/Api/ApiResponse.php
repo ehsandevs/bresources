@@ -1,6 +1,6 @@
 <?php
 
-namespace Behamin\BResources\Helpers\Api;
+namespace Ehsandevs\BResources\Helpers\Api;
 
 class ApiResponse
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Behamin\BResources\Helpers\Api;
+namespace Ehsandevs\BResources\Helpers\Api;
 
-use Behamin\BResources\Resources\BasicResource;
+use Ehsandevs\BResources\Resources\BasicResource;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Contracts\Support\Responsable;
 use Illuminate\Http\Resources\Json\JsonResource;

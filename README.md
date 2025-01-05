@@ -94,7 +94,7 @@ You can specify output fields from transformDataItem() method of resource classe
 
 namespace App\Http\Resources;
 
-use Behamin\BResources\Resources\BasicResource;
+use Ehsandevs\BResources\Resources\BasicResource;
 
 class EmailResource extends BasicResource
 {

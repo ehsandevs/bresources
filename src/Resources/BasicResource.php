@@ -1,8 +1,8 @@
 <?php
 
-namespace Behamin\BResources\Resources;
+namespace Ehsandevs\BResources\Resources;
 
-use Behamin\BResources\Exceptions\InvalidResourceDataException;
+use Ehsandevs\BResources\Exceptions\InvalidResourceDataException;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

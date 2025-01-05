@@ -1,8 +1,8 @@
 <?php
 
-namespace Behamin\BResources\Tests;
+namespace Ehsandevs\BResources\Tests;
 
-use Behamin\BResources\Resources\BasicResource;
+use Ehsandevs\BResources\Resources\BasicResource;
 
 class BasicResourceCollectionTest extends TestCase
 {

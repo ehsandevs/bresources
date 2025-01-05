@@ -2,7 +2,7 @@
 
 namespace {{ namespace }};
 
-use Behamin\BResources\Resources\BasicResource;
+use Ehsandevs\BResources\Resources\BasicResource;
 
 class {{ class }} extends BasicResource
 {

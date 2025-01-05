@@ -1,6 +1,6 @@
 <?php
 
-namespace Behamin\BResources\Exceptions;
+namespace Ehsandevs\BResources\Exceptions;
 
 use Exception;
 

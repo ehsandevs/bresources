@@ -1,8 +1,8 @@
 <?php
 
-namespace Behamin\BResources\Tests;
+namespace Ehsandevs\BResources\Tests;
 
-use Behamin\BResources\BResourceServiceProvider;
+use Ehsandevs\BResources\BResourceServiceProvider;
 use Orchestra\Testbench\TestCase as BaseTestCase;
 
 class TestCase extends BaseTestCase

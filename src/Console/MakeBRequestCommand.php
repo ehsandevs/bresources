@@ -1,6 +1,6 @@
 <?php
 
-namespace Behamin\BResources\Console;
+namespace Ehsandevs\BResources\Console;
 
 use Illuminate\Console\GeneratorCommand;
 use Symfony\Component\Console\Input\InputArgument;
